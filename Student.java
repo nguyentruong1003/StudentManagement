@@ -43,14 +43,14 @@ public class Student {
     public Student(){
         name = "Student";
         id = "000";
-        group = "K62CB";
+        group = "K63CC";
         email = "uet@vnu.edu.vn";
     }
 
     public Student(String name, String id, String email){
         this.name = name;
         this.id = id;
-        this.group = "K62CB";
+        this.group = "K63CC";
         this.email = email;
     }
 
