@@ -1,4 +1,12 @@
 Hello World!!
 1 2 3
+<<<<<<< HEAD
 Hello Tuan
 Hello Truong
+=======
+
+Hello Truong
+
+Hello Tuan
+
+>>>>>>> 4c56925982afc8216a488b44a4ebc9ea9928e127
